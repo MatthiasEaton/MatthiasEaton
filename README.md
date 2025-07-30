@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**MatthiasEaton/MatthiasEaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+Hi, I'm Matthias — a passionate self-taught developer focused on front-end and full-stack web development.  
+I'm currently diving into JavaScript, building interactive projects, and earning certifications on freeCodeCamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Goals:** Become job-ready in the next year, build beautiful and useful web apps, and collaborate with other devs.
+
+---
+
+### 📜 Certifications
+
+| Certificate | Issuer | Date | Link |
+|-------------|--------|------|------|
+| Responsive Web Design | freeCodeCamp | July 2025 | [View Certificate](https://www.freecodecamp.org/certification/MatthiasEaton/responsive-web-design) |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages & Tools:**  
+HTML · CSS · JavaScript · Git · GitHub · VS Code · Leaflet.js · Firebase (soon) · Responsive Design
+
+
