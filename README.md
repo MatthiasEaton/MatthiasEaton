@@ -20,6 +20,6 @@ I'm currently diving into JavaScript, building interactive projects, and earning
 ### 🧰 Tech Stack
 
 **Languages & Tools:**  
-HTML · CSS · JavaScript · Git · GitHub · VS Code · Leaflet.js · Firebase (soon) · Responsive Design
+HTML · CSS · JavaScript · Git · GitHub · VS Code · Leaflet.js · Firebase · Responsive Design
 
 
