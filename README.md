@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I'm Matthias — a passionate self-taught developer focused on front-end and full-stack web development.  
+Hi, I'm Matthias — a passionate self-taught developer focused on front-end web development.  
 I'm currently diving into JavaScript, building interactive projects, and earning certifications on freeCodeCamp.
 
 🎯 **Goals:** Become job-ready in the next year, build beautiful and useful web apps, and collaborate with other devs.
