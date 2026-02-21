@@ -13,7 +13,7 @@ I'm currently diving into JavaScript, building interactive projects, and earning
 
 | Certificate | Issuer | Date | Link |
 |-------------|--------|------|------|
-| Responsive Web Design | freeCodeCamp | July 2025 | [View Certificate](https://www.freecodecamp.org/certification/matthiaseaton/responsive-web-design) |
+| Responsive Web Design (legacy) | freeCodeCamp | July 2025 | [View Certificate](https://www.freecodecamp.org/certification/matthiaseaton/responsive-web-design) |
 
 ---
 
